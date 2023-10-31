@@ -1,0 +1,7 @@
+team skynet
+
+Good morning professor, so as of right now we have met Christian Womack already and he has discussed that he wanted us to look over some projects options for the group. Our group chose one project which is a website that has an ai feature in making shirts.
+
+We have a meeting this wednesday (tomorrow) to discuss the project we chose and the deliverables of the project.
+
+Some obstacles we are running into I believe is the companys clarity on what exactly is expected from us. We expressed to Mr. Womack that we are there to implement a well archictecture framework solution on the aws infrastructure. I believe he understands now what exaclty is our capabilities.
